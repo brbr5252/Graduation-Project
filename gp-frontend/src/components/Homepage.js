@@ -26,7 +26,7 @@ const Homepage = ({ user }) => {
               Join us now →
             </button>
 
-            <a href="GP Final Report.pdf" download>
+            <a href="ML Detect Research.pdf" download>
             <button className="btn btn-primary btn-lg mt-3 ms-5">
               Download Research
             </button>
